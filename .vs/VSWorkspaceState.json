@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CustomerSupportSystem",
+    "\\CustomerSupportSystemTests",
+    "\\CustomerSupportSystem\\Handlers",
+    "\\CustomerSupportSystem\\Interfaces",
+    "\\CustomerSupportSystem\\Models"
+  ],
+  "SelectedNode": "\\CustomerSupportSystemTests\\BaseHandlerTests.cs",
+  "PreviewInSolutionExplorer": false
+}
