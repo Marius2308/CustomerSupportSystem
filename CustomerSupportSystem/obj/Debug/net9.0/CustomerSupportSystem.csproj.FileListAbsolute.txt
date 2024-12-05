@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Desktop\CustomerSupportSystem\CustomerSupportSystem\bin\Debug\net9.0\CustomerSupportSystem.exe
+C:\Users\User\OneDrive\Desktop\CustomerSupportSystem\CustomerSupportSystem\bin\Debug\net9.0\CustomerSupportSystem.deps.json
+C:\Users\User\OneDrive\Desktop\CustomerSupportSystem\CustomerSupportSystem\bin\Debug\net9.0\CustomerSupportSystem.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\CustomerSupportSystem\CustomerSupportSystem\bin\Debug\net9.0\CustomerSupportSystem.dll
+C:\Users\User\OneDrive\Desktop\CustomerSupportSystem\CustomerSupportSystem\bin\Debug\net9.0\CustomerSupportSystem.pdb
+C:\Users\User\OneDrive\Desktop\CustomerSupportSystem\CustomerSupportSystem\obj\Debug\net9.0\CustomerSupportSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\CustomerSupportSystem\CustomerSupportSystem\obj\Debug\net9.0\CustomerSupportSystem.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\CustomerSupportSystem\CustomerSupportSystem\obj\Debug\net9.0\CustomerSupportSystem.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\CustomerSupportSystem\CustomerSupportSystem\obj\Debug\net9.0\CustomerSupportSystem.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\CustomerSupportSystem\CustomerSupportSystem\obj\Debug\net9.0\CustomerSupportSystem.dll
+C:\Users\User\OneDrive\Desktop\CustomerSupportSystem\CustomerSupportSystem\obj\Debug\net9.0\refint\CustomerSupportSystem.dll
+C:\Users\User\OneDrive\Desktop\CustomerSupportSystem\CustomerSupportSystem\obj\Debug\net9.0\CustomerSupportSystem.pdb
+C:\Users\User\OneDrive\Desktop\CustomerSupportSystem\CustomerSupportSystem\obj\Debug\net9.0\CustomerSupportSystem.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\CustomerSupportSystem\CustomerSupportSystem\obj\Debug\net9.0\ref\CustomerSupportSystem.dll

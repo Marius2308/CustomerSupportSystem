@@ -1,0 +1,14 @@
+C:\Users\erblinf\Desktop\CustomerSupportSystem\CustomerSupportSystem\bin\Debug\net8.0\CustomerSupportSystem.exe
+C:\Users\erblinf\Desktop\CustomerSupportSystem\CustomerSupportSystem\bin\Debug\net8.0\CustomerSupportSystem.deps.json
+C:\Users\erblinf\Desktop\CustomerSupportSystem\CustomerSupportSystem\bin\Debug\net8.0\CustomerSupportSystem.runtimeconfig.json
+C:\Users\erblinf\Desktop\CustomerSupportSystem\CustomerSupportSystem\bin\Debug\net8.0\CustomerSupportSystem.dll
+C:\Users\erblinf\Desktop\CustomerSupportSystem\CustomerSupportSystem\bin\Debug\net8.0\CustomerSupportSystem.pdb
+C:\Users\erblinf\Desktop\CustomerSupportSystem\CustomerSupportSystem\obj\Debug\net8.0\CustomerSupportSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erblinf\Desktop\CustomerSupportSystem\CustomerSupportSystem\obj\Debug\net8.0\CustomerSupportSystem.AssemblyInfoInputs.cache
+C:\Users\erblinf\Desktop\CustomerSupportSystem\CustomerSupportSystem\obj\Debug\net8.0\CustomerSupportSystem.AssemblyInfo.cs
+C:\Users\erblinf\Desktop\CustomerSupportSystem\CustomerSupportSystem\obj\Debug\net8.0\CustomerSupportSystem.csproj.CoreCompileInputs.cache
+C:\Users\erblinf\Desktop\CustomerSupportSystem\CustomerSupportSystem\obj\Debug\net8.0\CustomerSupportSystem.dll
+C:\Users\erblinf\Desktop\CustomerSupportSystem\CustomerSupportSystem\obj\Debug\net8.0\refint\CustomerSupportSystem.dll
+C:\Users\erblinf\Desktop\CustomerSupportSystem\CustomerSupportSystem\obj\Debug\net8.0\CustomerSupportSystem.pdb
+C:\Users\erblinf\Desktop\CustomerSupportSystem\CustomerSupportSystem\obj\Debug\net8.0\CustomerSupportSystem.genruntimeconfig.cache
+C:\Users\erblinf\Desktop\CustomerSupportSystem\CustomerSupportSystem\obj\Debug\net8.0\ref\CustomerSupportSystem.dll
